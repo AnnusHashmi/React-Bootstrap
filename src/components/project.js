@@ -15,16 +15,48 @@ function Projects () {
         <h3>Projects</h3>
         <div>
         <Row>
-            <Col sm={3}> <img src={house2} className="Project-img" />  </Col>
-            <Col sm={3}> <img src={house3} className="Project-img"/> </Col>
-            <Col sm={3}> <img src={house4} className="Project-img"/> </Col>
-            <Col sm={3}> <img src={house5} className="Project-img"/> </Col>
+            <Col sm={3}> <img src={house2} className="Project-img" /> 
+                <div className="top-left">Brick House</div> 
+            </Col>
+
+
+            <Col sm={3}> <img src={house3} className="Project-img"/>  
+                <div className="top-left">Renovated</div> 
+            </Col>
+
+
+            <Col sm={3}> <img src={house4} className="Project-img"/>  
+                <div className="top-left">Summer House</div> 
+            </Col>
+
+
+            <Col sm={3}> <img src={house5} className="Project-img"/>  
+                <div className="top-left">Barn House</div>
+            </Col>
         </Row>
+
+
         <Row>
-            <Col sm={3}> <img src={house5} className="Project-img"/></Col>
-            <Col sm={3}> <img src={house4} className="Project-img"/> </Col>
-            <Col sm={3}> <img src={house2} className="Project-img"/></Col>
-            <Col sm={3}> <img src={house3} className="Project-img"/></Col>
+            <Col sm={3}> <img src={house5} className="Project-img"/> 
+                <div className="top-left">Renovated</div>
+            </Col>
+
+
+            <Col sm={3}> <img src={house4} className="Project-img"/> 
+                <div className="top-left">Barn House</div>
+            </Col>
+
+
+
+            <Col sm={3}> <img src={house2} className="Project-img"/> 
+                <div className="top-left">Brick House</div>
+            </Col>
+
+
+            <Col sm={3}> <img src={house3} className="Project-img"/> 
+                <div className="top-left">Summer House</div>
+            </Col>
+
         </Row>
         </div>
     </div>
