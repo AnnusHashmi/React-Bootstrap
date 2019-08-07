@@ -1,0 +1,16 @@
+.container-games{
+    padding: 0.01em 26px;
+}
+h3{
+    padding: 35px 0px;
+}
+.About-img{
+    width: 355px;
+    height: 250px;
+}
+
+.About-txt{
+    font-size: 18px;
+    color: grey;
+    padding: 20px 0px;
+}

@@ -1,0 +1,21 @@
+.container-games{
+    padding: 0.01em 26px;
+}
+h3{
+    padding: 40px 0px;
+}
+.form-box{
+    margin: 20px 0px;
+}
+p{
+    font-size: 18px;
+}
+.Contact-Button{
+    padding: 8px 15px;
+    color: whitesmoke;
+    background-color: black;
+    border: 1px solid black;
+}
+.Contact-img{
+    margin: 30px 0px;
+}
