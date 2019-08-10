@@ -5,8 +5,8 @@ h3{
     padding: 35px 0px;
 }
 .About-img{
-    width: 355px;
-    height: 250px;
+    width: 100%;
+    height: auto;
 }
 
 .About-txt{

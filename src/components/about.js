@@ -20,28 +20,28 @@ function About() {
         </div>
         <div>
         <Row>
-            <Col sm={3}> 
+            <Col sm={6} md={6} lg={3}> 
                 <img src={team1} className="About-img"/>
                 <h3>Jhon Doe</h3>
                 <p>CEO & Founder</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. 
                     Suspendisse sodales pellentesque elementum.</p>  
             </Col>
-            <Col sm={3}>
+            <Col sm={6} md={6} lg={3}>
                  <img src={team2} className="About-img"/>
                  <h3>Jhon Doe</h3>
                  <p>Architect</p>
                  <p>Phasellus eget enim eu lectus faucibus vestibulum. 
                     Suspendisse sodales pellentesque elementum.</p> 
              </Col>
-            <Col sm={3}>
+            <Col sm={6} md={6} lg={3}>
                  <img src={team3} className="About-img"/>
                  <h3>Mike Ross</h3>
                 <p>Architect</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. 
                     Suspendisse sodales pellentesque elementum.</p> 
             </Col>
-            <Col sm={3}>
+            <Col sm={6} md={6} lg={3}>
                  <img src={team4} className="About-img"/> 
                  <h3>Jhon Doe</h3>
                 <p>Architect</p>
